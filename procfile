@@ -1,1 +1,1 @@
-web: python virat.py
+web: gunicorn virat:app
